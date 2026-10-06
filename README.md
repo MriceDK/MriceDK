@@ -117,16 +117,15 @@ A custom version control system written from scratch in Rust, built to learn how
 | [🔎 minigrep](https://github.com/MriceDK/minigrep) | Learning Rust by following along with the Rust book | Rust |
 | 🦭 Seal | Custom version control system written in Rust (work in progress, repo coming soon) | Rust |
 
-## 📊 All-Time GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- include_all_commits=true counts every commit ever, not just this year. count_private=true includes your private-repo contributions. -->
-![Stats](https://github-readme-stats.vercel.app/api?username=MriceDK&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MriceDK&layout=compact&langs_count=8&theme=transparent&cache_seconds=86400)
-
 <!-- Streak stats are all-time by design (they track your whole contribution history). -->
 ![Streak](https://streak-stats.demolab.com/?user=MriceDK&theme=transparent)
+
+<!-- include_all_commits=true counts every commit ever, not just this year. count_private=true includes your private-repo contributions. -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MriceDK&layout=compact&langs_count=8&theme=transparent&cache_seconds=86400)
 
 </div>
 
