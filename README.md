@@ -3,7 +3,6 @@
 # 👋 Hi, I'm Maurice De Kegel
 
 **Applied Computer Science student (Software Engineering) at Howest Brugge**
-Building Android apps, microservices and cloud infrastructure.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
