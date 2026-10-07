@@ -4,13 +4,16 @@
 
 **Applied Computer Science student (Software Engineering) at Howest Brugge**
 
+<!-- Languages -->
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+<!-- Mobile -->
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Material 3](https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
@@ -18,30 +21,40 @@
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge)
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
 ![WorkManager](https://img.shields.io/badge/WorkManager-3DDC84?style=for-the-badge)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![ECMAScript](https://img.shields.io/badge/ECMAScript_Modules-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- Backend -->
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+<!-- Frontend -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ECMAScript Modules](https://img.shields.io/badge/ECMAScript_Modules-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
+<!-- Databases -->
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MartenDB](https://img.shields.io/badge/MartenDB-0F5C8C?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+<!-- Messaging -->
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![LavinMQ](https://img.shields.io/badge/LavinMQ-2D6CDF?style=for-the-badge)
 ![CloudAMQP](https://img.shields.io/badge/CloudAMQP-E23C6A?style=for-the-badge)
 
+<!-- DevOps & Cloud -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
@@ -57,11 +70,11 @@
 
 | Area | Technologies |
 |---|---|
-| **Languages** | Kotlin, C#, Java, JavaScript, Rust, C++ |
+| **Languages** | Kotlin, C#, Java, JavaScript, Rust, C++, PHP |
 | **Mobile** | Android, Jetpack Compose, Material 3, Hilt, Room, Retrofit, WorkManager |
-| **Backend** | .NET / ASP.NET Core, Java web APIs, REST APIs, Swagger/OpenAPI |
+| **Backend** | .NET / ASP.NET Core, Java web APIs, REST APIs, Swagger/OpenAPI, Laravel |
 | **Frontend** | HTML5, CSS3, JavaScript (ECMAScript modules), Vue 3, Vite, Blazor Server |
-| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **Databases** | PostgreSQL, MySQL, MongoDB, SQL Server, MariaDB, MartenDB, Redis |
 | **Messaging** | RabbitMQ, LavinMQ (AMQP), CloudAMQP |
 | **DevOps & Cloud** | Docker, Docker Compose, Nginx, Terraform, Azure, GitHub Actions, GitLab CI, Firebase App Distribution |
 
