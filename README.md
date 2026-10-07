@@ -9,6 +9,7 @@
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -25,8 +26,11 @@
 <!-- Backend -->
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-70FFAF?style=for-the-badge&logo=deno&logoColor=black)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2D3748?style=for-the-badge)
 
 <!-- Frontend -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -70,9 +74,9 @@
 
 | Area | Technologies |
 |---|---|
-| **Languages** | Kotlin, C#, Java, JavaScript, Rust, C++, PHP |
+| **Languages** | Kotlin, C#, Java, JavaScript, Typescript, Rust, C++, PHP |
 | **Mobile** | Android, Jetpack Compose, Material 3, Hilt, Room, Retrofit, WorkManager |
-| **Backend** | .NET / ASP.NET Core, Java web APIs, REST APIs, Swagger/OpenAPI, Laravel |
+| **Backend** | .NET / ASP.NET Core, Deno, Java web APIs, REST APIs, Swagger/OpenAPI, JWT, Laravel, Clean Architecture |
 | **Frontend** | HTML5, CSS3, JavaScript (ECMAScript modules), Vue 3, Vite, Blazor Server |
 | **Databases** | PostgreSQL, MySQL, MongoDB, SQL Server, MariaDB, MartenDB, Redis |
 | **Messaging** | RabbitMQ, LavinMQ (AMQP), CloudAMQP |
