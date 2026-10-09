@@ -108,7 +108,7 @@ A full-stack food-scanning and nutrition platform built for a simulated 2084 "Re
 ### 🎬 HowestPrime Movies Platform
 An event-driven cinema platform made of a staff backoffice, a movie microservice, a ticketing microservice, and Docker and Terraform infrastructure for local testing and Azure deployment. Built for the **Build and Deploy** course at Howest.
 
-[View the full project](https://github.com/REPLACE-WITH-ORGANIZATION)
+[View the full project](https://github.com/HowestPrime-Movies-Project)
 
 ### 🦭 Seal: Custom Version Control System
 A custom version control system written from scratch in Rust, built to learn how tools like Git work under the hood.
@@ -127,6 +127,7 @@ A custom version control system written from scratch in Rust, built to learn how
 | [🥗 Adria-Test-Environment](https://github.com/MriceDK/Adria-Test-Environment) | Test environment for the Adria project | |
 | [🃏 Splendor-Server](https://github.com/MriceDK/Splendor-Server) | Java web API for the Splendor client | Java |
 | [🃏 Splendor-Client](https://github.com/MriceDK/Splendor-Client) | Multiplayer web client for the Splendor board game | JavaScript |
+| [🎬 HowestPrime Movies Platform](https://github.com/HowestPrime-Movies-Project) | Event-driven Cinema platform | C# |
 | [🏎️ Formula-1-Stats-Dashboard](https://github.com/MriceDK/Formula-1-Stats-Dashboard) | School project showing the stats of each Formula 1 driver | JavaScript |
 | [🥋 Shinkai-Karate-App](https://github.com/MriceDK/Shinkai-Karate-App) | Android app for my karate club to track techniques, katas and training | Kotlin |
 | [🥾 shoe-dryer](https://github.com/MriceDK/shoe-dryer) | Code for a shoe dryer with a web page | C++ |
